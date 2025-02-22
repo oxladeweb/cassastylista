@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDOCzSYSI9LzLCnE3qq4olNOlOcP-rwEWI",
-  authDomain: "fazzaaltuyur.firebaseapp.com",
-  databaseURL: "https://fazzaaltuyur-default-rtdb.firebaseio.com",
-  projectId: "fazzaaltuyur",
-  storageBucket: "fazzaaltuyur.firebasestorage.app",
-  messagingSenderId: "597409733717",
-  appId: "1:597409733717:web:0d0120339239f39354c8dc"
+  apiKey: "AIzaSyDJH0yxm2WqjU-JOBqdRPy0d4D9VGznP38",
+  authDomain: "fashionjuo.firebaseapp.com",
+  databaseURL: "https://fashionjuo-default-rtdb.firebaseio.com",
+  projectId: "fashionjuo",
+  storageBucket: "fashionjuo.firebasestorage.app",
+  messagingSenderId: "591762700462",
+  appId: "1:591762700462:web:bd1c315cf1dd8b4164d53f"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
